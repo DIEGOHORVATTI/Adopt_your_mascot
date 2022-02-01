@@ -1,0 +1,23 @@
+{
+  "name": "adopt_your_mascot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no teste specificado\" && exit 1",
+    "start": "nodemon ./index.js localhost 5000"
+  },
+  "repository": "git@github.com:DIEGOHORVATTI/Adopt_your_mascot.git",
+  "author": "Div",
+  "license": "Apache",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "espress": "^0.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongose": "^0.0.2-security",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}

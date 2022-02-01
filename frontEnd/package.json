@@ -1,0 +1,8 @@
+{
+  "name": "Adopt_your_mascot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DIEGOHORVATTI/Adopt_your_mascot.git",
+  "author": "DIEGOHORVATTI <susanomonkey@gmail.com>",
+  "license": "MIT"
+}
